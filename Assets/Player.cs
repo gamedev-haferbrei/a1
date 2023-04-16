@@ -70,7 +70,7 @@ public class Player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
-            SpeedIndex++;
+            SpeedIndex = (SpeedIndex + 1) % 3;
         }
 
         if (Input.GetKeyDown(KeyCode.F))
