@@ -12,9 +12,9 @@
   * Characters: Visitor, Dog
   * Objects: Tower, House, Bench, Flower, Shovel
 
-## Screenshots
+We only have one area; we planned the layout as a group and Tristan put it together in Unity, as we thought splitting up this part would get unwieldy.
 
-TODO
+## Screenshot
 
 ![Screenshot](https://user-images.githubusercontent.com/105380051/235360018-9102f78a-ac72-44a6-aa3d-57431926c100.png)
 
