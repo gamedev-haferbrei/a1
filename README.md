@@ -3,11 +3,11 @@
 ## Team Members
 
 * Tristan Kneisel (108021218005)
-  * Characters: Ghost, Zombie
+  * Characters: Zombie, Ghost
   * Objects: Gravestone, Tree, Grass, Fence, Fountain
 * Rudolfs Pogodins (108021225460)
   * Characters: Skeleton, Giant Bat
-  * Objects: Burried Grave, Obelisk, Lantern, Dead Tree, Waking Zombie
+  * Objects: Buried Grave, Obelisk, Lantern, Dead Tree, Waking Zombie
 * Anna Katharina Mankovski (108021240090)
   * Characters: Visitor, Dog
   * Objects: Tower, House, Bench, Flower, Shovel
